@@ -218,3 +218,13 @@ body {
     padding: 4px 16px;
     background-color: rgb(192, 210, 227);
 }
+
+/* 
+    flex: 1;
+
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 1;
+
+    keyword: flex css mozilla 
+*/
