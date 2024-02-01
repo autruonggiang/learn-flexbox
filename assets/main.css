@@ -59,6 +59,7 @@ body {
     margin-top: 36px;
     padding: 12px 0;
     background-color: #fff;
+    display: flex;
 }
 
 .column-item {
@@ -66,12 +67,15 @@ body {
 }
 
 .sidebar-one {
+    flex: 1;
 }
 
 .sidebar-two {
+    flex: 1;
 }
 
 .main-column {
+    flex: 3;
 }
 
 /* Feature layout */
