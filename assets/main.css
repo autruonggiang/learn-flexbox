@@ -82,12 +82,14 @@ body {
 .feature-layout {
     margin-top: 36px;
     display: flex;
+    flex-direction: column;
     justify-content: space-evenly;
 }
 
 /* PC, Tablet */
 @media (min-width: 740px) {
     .feature-layout {
+        flex-direction: row;
     }
 }
 
