@@ -17,6 +17,7 @@ body {
 .nav {
     min-height: 42px;
     background-color: #EF5122;
+    display: flex;
 }
 
 .nav-list {
