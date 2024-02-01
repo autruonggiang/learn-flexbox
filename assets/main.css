@@ -217,6 +217,9 @@ body {
     flex: 1;
     padding: 4px 16px;
     background-color: rgb(192, 210, 227);
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
 }
 
 /* 
@@ -227,4 +230,7 @@ body {
     flex-basis: 1;
 
     keyword: flex css mozilla 
+
+    __________
+    flex-flow: row wrap;
 */
