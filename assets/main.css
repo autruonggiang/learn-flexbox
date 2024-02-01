@@ -114,6 +114,9 @@ body {
     background-color: #fff;
     margin-top: 36px;
     padding: 12px 0 32px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .wrap-layout__item {
