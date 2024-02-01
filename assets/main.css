@@ -153,9 +153,13 @@ body {
     padding: 32px 0;
     height: 320px;
     background-color: #fff;
+    display: flex;
+    /* align-items: flex-end; */
+    justify-content: space-around;
 }
 
 .chart-layout__item {
+    align-self: flex-end;
     width: 60px;
     color: #fff;
     text-align: center;
