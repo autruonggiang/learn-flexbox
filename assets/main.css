@@ -18,6 +18,7 @@ body {
     min-height: 42px;
     background-color: #EF5122;
     display: flex;
+    justify-content: space-between;
 }
 
 .nav-list {
@@ -42,12 +43,15 @@ body {
 
 .form__row {
     padding: 8px 0;
+    display: flex;
 }
 
 .form__label {
+    min-width: 90px;
 }
 
 .form__input {
+    flex: 1;
 }
 
 /* Column layout */
