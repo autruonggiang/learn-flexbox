@@ -187,6 +187,7 @@ body {
     max-width: 740px;
     min-height: 360px;
     display: flex;
+    flex-direction: row-reverse;
 }
 
 .the-end__first {
