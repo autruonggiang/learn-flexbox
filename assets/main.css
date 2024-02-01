@@ -68,14 +68,17 @@ body {
 
 .sidebar-one {
     flex: 1;
+    order: 2;
 }
 
 .sidebar-two {
     flex: 1;
+    order: 3;
 }
 
 .main-column {
     flex: 3;
+    order: 1;
 }
 
 /* Feature layout */
