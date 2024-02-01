@@ -81,6 +81,8 @@ body {
 /* Feature layout */
 .feature-layout {
     margin-top: 36px;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 /* PC, Tablet */
@@ -92,6 +94,7 @@ body {
 .feature-item {
     padding: 12px 16px;
     margin-top: 16px;
+    flex-basis: 30%;
 }
 
 .feature-item:nth-child(1) {
