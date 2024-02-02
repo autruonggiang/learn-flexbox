@@ -1,4 +1,4 @@
-# learn-flexbox
+# Flexbox
 
 ## References
 - F8 Course: https://fullstack.edu.vn/courses/html-css
