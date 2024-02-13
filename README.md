@@ -6,6 +6,7 @@
 - W3Schools: https://www.w3schools.com/css/css3_flexbox.asp
 - MDN: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 - https://web.dev/learn/css/flexbox?hl=vi
+- https://www.freecodecamp.org/news/the-css-flexbox-handbook/
 
     ### Games
     + https://codingfantasy.com/games/flexboxadventure/play
